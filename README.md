@@ -12,7 +12,7 @@ JSMessageKit Versions
 
 |Version|Date|Link|
 | ----|----|----|
-|Prototype v.0.1.0|2020.04.16||
+|Prototype v.0.1.0|2020.04.16|https://github.com/billnjoyce/JSMessageKit-Swift/releases/tag/Prototype-v.0.1.0|
 
 JSMessageKit Architecture
 -----------------------  
