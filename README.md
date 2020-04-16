@@ -1,7 +1,8 @@
 # JSMessageKit-Swift
 JSMessageKit is open chatting ui library. This library is made for Swift(iOS).
 
-# JSMessageKit-Swift Features :
+JSMessageKit-Swift Features
+-----------------------  
 
   * Open Source for free
   * Simple to use
